@@ -10,37 +10,37 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
-global.premium = []
-global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.owner = ['94726083178']
+global.pengguna = 'Lakshan'
+global.premium = [94726083178]
+global.author = 'lakshan'
+global.pemilik = ['94726083178'] 
+global.ownernomer = '94726083178'
+global.ownername = 'Lakshan'
+global.botname = 'Cherry - MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.meki = '94726083178'
+global.footer = 'Cherry- 𝘔 𝘋'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
-global.footer1 = 'Jangan Spam Bot.'
-global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/iamkizakixd'
-global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.footer1 = 'do not Spam Bot.'
+global.footer2 = 'if you have any errors or bugs then please contact Owner.'
+global.yt = 'https://www.youtube.com/channel/' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://instagram.com/LakshanO_o'
+global.gc = 'https://chat.whatsapp.com/' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
 global.dana = '00000'
 global.gopay = '0000'
-global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
-global.region = 'Indonesia'
+global.wame = 'wa.me/94726083178'
+global.email = 'lolser478@gmail.com'
+global.region = 'Japan'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
+global.packname = '"{\nAuthor: lakshan"\n"Bot Number: 94726083178"\n"Bot Name: cherrry - MD"\n"Instagram: @iamlakshan"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
-global.sp = '❑ ' 
+global.sp = '🍒 ' 
 global.mess = {
     success: 'Done Your Request',
     admin: 'Fitur Khusus Admin Group!',
